@@ -12,6 +12,8 @@ exibidas na tela.
 
 Para tal, foi feio o consumo de uma API, que pode ser encontrada em https://rickandmortyapi.com.
 
+A maioria das regras CSS presentes nesse projeto, foram adicionadas via insertRule(), método JavaScript.
+
 > ##### Código-fonte
 
 Toda a base de arquivos se encontra dentro do repositório. Caso deseje visualizar o código-fonte e arquivos, baixe via zip ou clone o repositório.
